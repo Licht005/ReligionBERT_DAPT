@@ -1,0 +1,11 @@
+torch
+transformers>=5.0.0
+datasets
+accelerate
+scikit-learn
+scipy
+numpy
+matplotlib
+sentencepiece
+groq
+wandb
